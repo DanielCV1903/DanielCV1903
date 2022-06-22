@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @DanielCV1903
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Svelte, Next.js and Vue.js
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I'm Daniel Crespin</h1>
+<h3 align="center">A passionate and enthusiast developer from Quito, Ecuador 	🇪🇨 </h3>
+
+- 👀 I'm interested in web development, mobile development, blockchain.
+- 🧠 I’m currently learning Next.js,Vue.js and Svelte.
+- 🎮I like all types of music, I like play videogames, I like to draw. 
+
 
 <!---
 DanielCV1903/DanielCV1903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
