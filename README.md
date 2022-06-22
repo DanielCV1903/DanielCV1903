@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Crespin</h1>
-<h3 align="center">A passionate and enthusiast developer from Quito, Ecuador 	🇪🇨 </h3>
+<h3 align="center">A gamer and developer from Quito, Ecuador 🇪🇨 </h3>
 
 - 👀 I'm interested in web development, mobile development, blockchain.
 - 🧠 I’m currently learning Next.js,Vue.js and Svelte.
